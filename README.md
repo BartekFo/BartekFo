@@ -3,6 +3,7 @@ I'm junior frontend developer 👨‍💻 who is currently looking for job. If u
 I always strive to develop myself and the people around me. 
 
 ### 📫 How to reach me:
+- [Website](https://www.bartoszformanowski.me/)
 - [Linkedin](https://www.linkedin.com/in/bartosz-f%C3%B3rmanowski-363943200/)
 - [Twitter](https://twitter.com/Bartosz_For)
 
